@@ -1,0 +1,58 @@
+[
+  {
+    "id": "kuno",
+    "name": "Kuno National Park",
+    "image": "map-kuno",
+    "latitude": 25.300000,
+    "longitude": 77.533000,
+    "animals": ["Cheetah", "Leopard", "Hyena"]
+  },
+  {
+    "id": "gir",
+    "name": "Gir National Park",
+    "image": "map-gir",
+    "latitude": 21.124000,
+    "longitude": 70.824000,
+    "animals": ["Lion", "Leopard", "Deer"]
+  },
+  {
+    "id": "kaziranga",
+    "name": "Kaziranga National Park",
+    "image": "map-kaziranga",
+    "latitude": 26.577531,
+    "longitude": 93.171122,
+    "animals": ["Rhinoceros", "Tiger", "Elephant"]
+  },
+  {
+    "id": "ranthambore",
+    "name": "Ranthambore National Park",
+    "image": "map-ranthambore",
+    "latitude": 26.017327,
+    "longitude": 76.502574,
+    "animals": ["Tiger", "Leopard", "Sloth Bear"]
+  },
+  {
+    "id": "kanha",
+    "name": "Kanha National Park",
+    "image": "map-kanha",
+    "latitude": 22.334438,
+    "longitude": 80.611511,
+    "animals": ["Tiger", "Barasingha", "Leopard"]
+  },
+  {
+    "id": "bandhavgarh",
+    "name": "Bandhavgarh National Park",
+    "image": "map-bandhavgarh",
+    "latitude": 23.728573,
+    "longitude": 81.023485,
+    "animals": ["Tiger", "Leopard", "Deer"]
+  },
+  {
+    "id": "periyar",
+    "name": "Periyar National Park",
+    "image": "map-periyar",
+    "latitude": 9.4625,
+    "longitude": 77.2360,
+    "animals": ["Elephant", "Tiger", "Leopard"]
+  }
+]
