@@ -11,7 +11,7 @@ This project is built using SwiftUI and demonstrates modern iOS development conc
 * ✨ **Animations** – Smooth and interactive UI animations to enhance user experience.
 * 📱 **Grid View** – Efficiently displays content using `LazyVGrid` for a responsive layout.
 
-![image alt]("https://github.com/ArjunCodewave/WildAtlas/blob/c09852d3937e151c7dad94818128c36ee4093c39/WildAtlas..png")
+
 
 ## Technologies
 
@@ -28,3 +28,5 @@ This project is built using SwiftUI and demonstrates modern iOS development conc
 ## Author
 
 Arjun Rana
+
+![image alt]("https://github.com/ArjunCodewave/WildAtlas/blob/c09852d3937e151c7dad94818128c36ee4093c39/WildAtlas..png")
