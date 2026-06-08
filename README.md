@@ -1,5 +1,5 @@
 # iOS Project
-
+![WildAtlas Screenshot](https://github.com/ArjunCodewave/WildAtlas/blob/c09852d3937e151c7dad94818128c36ee4093c39/WildAtlas..png?raw=true)
 ## Overview
 
 This project is built using SwiftUI and demonstrates modern iOS development concepts, including multimedia handling, maps integration, animations, and responsive grid layouts.
@@ -29,4 +29,3 @@ This project is built using SwiftUI and demonstrates modern iOS development conc
 
 Arjun Rana
 
-![image alt]("https://github.com/ArjunCodewave/WildAtlas/blob/c09852d3937e151c7dad94818128c36ee4093c39/WildAtlas..png")
